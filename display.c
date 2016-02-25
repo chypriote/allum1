@@ -1,13 +1,3 @@
-/*
-** display.c for allum1 in /home/temeni_n//allu
-** 
-** Made by nicolas temenides
-** Login   <temeni_n@epitech.net>
-** 
-** Started on  Sun Jul  7 17:33:26 2013 nicolas temenides
-** Last update Sun Jul  7 21:16:49 2013 nicolas temenides
-*/
-
 #include "allum1.h"
 
 void	spaces(int nb, int lines)

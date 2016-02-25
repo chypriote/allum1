@@ -1,13 +1,3 @@
-/*
-** lib.c for allum1 in /home/temeni_n//allu
-** 
-** Made by nicolas temenides
-** Login   <temeni_n@epitech.net>
-** 
-** Started on  Sun Jul  7 17:27:21 2013 nicolas temenides
-** Last update Sun Jul  7 17:30:46 2013 nicolas temenides
-*/
-
 #include <stdlib.h>
 #include <unistd.h>
 #include "allum1.h"

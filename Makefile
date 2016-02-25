@@ -1,13 +1,3 @@
-##
-## Makefile for allum1 in /home/temeni_n//allu
-## 
-## Made by nicolas temenides
-## Login   <temeni_n@epitech.net>
-## 
-## Started on  Sun Jul  7 17:51:23 2013 nicolas temenides
-## Last update Mon Jul  8 15:27:35 2013 nicolas temenides
-##
-
 NAME=	allum1
 
 SRC=	main.c \

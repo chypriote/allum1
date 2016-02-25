@@ -1,13 +1,3 @@
-/*
-** get_next_line.c for allum1 in /home/temeni_n//allu
-** 
-** Made by nicolas temenides
-** Login   <temeni_n@epitech.net>
-** 
-** Started on  Mon Jul  8 15:30:56 2013 nicolas temenides
-** Last update Mon Jul  8 15:30:58 2013 nicolas temenides
-*/
-
 #include <stdlib.h>
 #include "get_next_line.h"
 #include "allum1.h"

@@ -1,13 +1,3 @@
-/*
-** game.c for allum1 in /home/temeni_n//allu
-** 
-** Made by nicolas temenides
-** Login   <temeni_n@epitech.net>
-** 
-** Started on  Sun Jul  7 17:44:48 2013 nicolas temenides
-** Last update Mon Jul  8 14:34:35 2013 nicolas temenides
-*/
-
 #include "allum1.h"
 
 /* Compte le nombre de lignes sur lesquelles il reste des allumettes */

@@ -1,13 +1,3 @@
-/*
-** allum1.h for allum1 in /home/temeni_n//allu
-** 
-** Made by nicolas temenides
-** Login   <temeni_n@epitech.net>
-** 
-** Started on  Sun Jul  7 17:18:53 2013 nicolas temenides
-** Last update Sun Jul  7 21:11:02 2013 nicolas temenides
-*/
-
 #ifndef ALLUM1_H_
 #define ALLUM1_H_
 

@@ -1,13 +1,3 @@
-/*
-** player.c for allum1 in /home/temeni_n//allu
-** 
-** Made by nicolas temenides
-** Login   <temeni_n@epitech.net>
-** 
-** Started on  Sun Jul  7 18:16:12 2013 nicolas temenides
-** Last update Sun Jul  7 19:33:38 2013 nicolas temenides
-*/
-
 #include "allum1.h"
 #include "get_next_line.h"
 

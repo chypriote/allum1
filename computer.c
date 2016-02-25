@@ -1,13 +1,3 @@
-/*
-** computer.c for allum1 in /home/temeni_n//allu
-** 
-** Made by nicolas temenides
-** Login   <temeni_n@epitech.net>
-** 
-** Started on  Sun Jul  7 18:42:02 2013 nicolas temenides
-** Last update Sun Jul  7 21:16:37 2013 nicolas temenides
-*/
-
 #include "allum1.h"
 
 int	comp_play(int *game, t_opt *options, int i)

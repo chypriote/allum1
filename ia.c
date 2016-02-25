@@ -1,13 +1,3 @@
-/*
-** ia.c for allum1 in /home/temeni_n//allu
-** 
-** Made by nicolas temenides
-** Login   <temeni_n@epitech.net>
-** 
-** Started on  Mon Jul  8 14:53:05 2013 nicolas temenides
-** Last update Mon Jul  8 15:01:40 2013 nicolas temenides
-*/
-
 #include "allum1.h"
 
 /* Renvoi la ligne possédant le plus d'allumettes */
